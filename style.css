@@ -22,14 +22,14 @@
     font-weight: bold;
 }
 .mde {
-color: black;
+color: white;
 font-weight: bold;
-font-size: 60px;
+font-size: 44px;
 font-family: 'Courier New', Courier, monospace;
 }
 .mem {
     font-size: 20px;
-    color:orangered;
+    color:purple;
     font-family: 'Courier New', Courier, monospace;
 }
 .zoida {
