@@ -24,7 +24,7 @@
 .mde {
 color: black;
 font-weight: bold;
-font-size: 10px;
+font-size: 60px;
 font-family: 'Courier New', Courier, monospace;
 }
 .mem {
@@ -40,5 +40,5 @@ font-family: 'Courier New', Courier, monospace;
     text-align: justify;
     padding-left: 20px;
     padding-right: 20px;
-    p {line-height: 1,5;}
+    p {line-height: 2;}
 }
