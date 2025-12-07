@@ -29,8 +29,9 @@ font-family: 'Courier New', Courier, monospace;
 }
 .mem {
     font-size: 20px;
-    color:darkgreen;
+    color:darkred;
     font-family: 'Courier New', Courier, monospace;
+    p {line-height: 50%;}
 }
 .zoida {
     color: white;
