@@ -24,16 +24,16 @@
 .mde {
 color: white;
 font-weight: bold;
-font-size: 44px;
+font-size: 40px;
 font-family: 'Courier New', Courier, monospace;
 }
 .mem {
     font-size: 20px;
-    color:purple;
+    color:darkgreen;
     font-family: 'Courier New', Courier, monospace;
 }
 .zoida {
-    color: black;
+    color: white;
     font-weight: bold;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
